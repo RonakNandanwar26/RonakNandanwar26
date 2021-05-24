@@ -4,23 +4,18 @@
 **RonakNandanwar26/RonakNandanwar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🌱 I’m currently learning Deep Learning and other Data Science things.
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help in getting internship/job in Data Science
 - 💬 Ask me about programmin and Data Science
-- 📫 How to reach me: 
-      
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ronak Nandanwar!
 
-<img align="center" alt="JPG" src="https://github.com/sahilrajput2223/sahilrajput2223/blob/main/main.jpg" width="100%" height = "100%" />
+<img align="center" alt="JPG" src="https://www.freepik.com/premium-vector/geek-panda-working-with-laptop-coffee_5533484.htm" width="100%" height = "100%" />
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
