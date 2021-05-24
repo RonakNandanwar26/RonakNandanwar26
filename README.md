@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ronak Nandanwar!
 
-<img align="center" alt="JPG" src="https://image.freepik.com/free-vector/geek-panda-working-with-laptop-coffee_110249-9.jpg" width="50%" height = "100%" />
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
@@ -23,7 +22,7 @@ Here are some ideas to get you started:
  
   [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
   [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-
+</p>
 ---
 
 ### About me: 🤗😀
