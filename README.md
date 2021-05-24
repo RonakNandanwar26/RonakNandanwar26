@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ronak Nandanwar!
 
-<img align="center" alt="JPG" src="https://image.freepik.com/free-vector/geek-panda-working-with-laptop-coffee_110249-9.jpg" width="100%" height = "100%" />
+<img align="center" alt="JPG" src="https://image.freepik.com/free-vector/geek-panda-working-with-laptop-coffee_110249-9.jpg" width="50%" height = "100%" />
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
